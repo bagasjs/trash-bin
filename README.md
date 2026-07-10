@@ -1,2 +1,6 @@
-# Whatever
-I put my trash code here in case I need them for reference in the future.
+# Trash Bin
+My garbage codes live in here. 
+I don't want to use Github Gist for my garbage.
+Though garbage, it might be useful as a reference. 
+
+
